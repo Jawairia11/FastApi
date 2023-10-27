@@ -10,4 +10,4 @@ First we will install VScode and will open the folder in VScode , then through t
 
 It will give IP address and run that address in the browser. Page will open where we will upload image and filtered image will come in our directory. As virtual environment 
 
-We have also applied the same functions in single  jupytar file image & image filtering types .
+We have also applied the same functions in single  jupytar file image & image filtering types .ipynb file .
